@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d122a7a6-0183-4572-9dc8-f8614e51f003" name="Changes" comment="Constructors">
+    <list default="true" id="d122a7a6-0183-4572-9dc8-f8614e51f003" name="Changes" comment="learning">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/wartoscreferencjaExercise/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/wartoscreferencjaExercise/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,9 @@
       <option name="presentableId" value="Default" />
       <updated>1664296251686</updated>
       <workItem from="1664296254202" duration="6372000" />
-      <workItem from="1664445488613" duration="4203000" />
+      <workItem from="1664445488613" duration="9847000" />
+      <workItem from="1664641713186" duration="4273000" />
+      <workItem from="1664810461575" duration="5286000" />
     </task>
     <task id="LOCAL-00001" summary="Two objects Car, 2 methods in class">
       <created>1664300236495</created>
@@ -64,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664303557697</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="learning">
+      <created>1664473499585</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664473499585</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +94,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Two objects Car, 2 methods in class" />
     <MESSAGE value="Constructors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Constructors" />
+    <MESSAGE value="learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="learning" />
   </component>
 </project>
