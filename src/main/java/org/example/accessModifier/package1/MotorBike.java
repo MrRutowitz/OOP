@@ -1,4 +1,4 @@
-package org.example.accessModifier;
+package org.example.accessModifier.package1;
 
 public class MotorBike extends Bike{
 

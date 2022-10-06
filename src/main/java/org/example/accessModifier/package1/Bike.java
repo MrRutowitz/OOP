@@ -1,9 +1,9 @@
-package org.example.accessModifier;
+package org.example.accessModifier.package1;
 
 public class Bike {
 
-    public String brand;
-    protected String name;
+    private String brand;
+    private String name;
     private String type;
 
 
