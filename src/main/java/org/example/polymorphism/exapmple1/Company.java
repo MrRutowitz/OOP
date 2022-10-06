@@ -10,6 +10,7 @@ public class Company {
 
         Employee person = ceo;
         person.doWork();
+
         person.printInfo();
 
         ceo.signContract();
@@ -18,9 +19,9 @@ public class Company {
         employee.printInfo();
 
         Manager worker = ceo;
+        worker.printInfo();
         worker.hireEmployee();
         worker.printInfo();
-
 
 
 
