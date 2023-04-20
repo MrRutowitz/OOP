@@ -8,8 +8,8 @@ public class Ceo extends Manager{
         sharesNumber = 100;
     }
 
-    public Ceo(String name, String jobTitle, int salary, String departmentName, int sharesNumber) {
-        super(name, jobTitle, salary, departmentName);
+    public Ceo(String name, String jobTitle, int salary,int hourOfWork, String departmentName, int sharesNumber) {
+        super(name, jobTitle, salary, hourOfWork, departmentName);
         this.sharesNumber = sharesNumber;
     }
 

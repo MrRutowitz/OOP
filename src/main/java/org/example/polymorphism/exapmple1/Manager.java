@@ -9,8 +9,8 @@ public class Manager extends Employee{
         departmentName = "unknown";
     }
 
-    public Manager(String name, String jobTitle, int salary, String departmentName) {
-        super(name, jobTitle, salary);
+    public Manager(String name, String jobTitle, int salary,int hourOfWork, String departmentName) {
+        super(name, jobTitle, salary, hourOfWork );
         this.departmentName = departmentName;
     }
 
