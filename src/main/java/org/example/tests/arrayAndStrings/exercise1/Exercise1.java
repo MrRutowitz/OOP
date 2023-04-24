@@ -8,11 +8,11 @@ public class Exercise1 {
 
         int[] myArray = {1,2,3,4};
 
-        int[] answerr = solution.productExceptSelf(myArray);
+        solution.productExceptSelf(myArray);
 
-        for(int i=0; i<=answerr.length; i++)
+        for (int i=0; i<=myArray.length; i++)
         {
-            System.out.print(answerr[i]+ " ");
+            System.out.println(myArray[i]);
         }
     }
 }

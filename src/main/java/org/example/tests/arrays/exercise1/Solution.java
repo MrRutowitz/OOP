@@ -1,4 +1,4 @@
-package org.example.tests.arrays;
+package org.example.tests.arrays.exercise1;
 
 class Solution {
     public int removeDuplicates(int[] nums) {
@@ -11,6 +11,7 @@ class Solution {
                 nums[insertIndex] = nums[i];
                 insertIndex++;
             }
+
         }
 
 
