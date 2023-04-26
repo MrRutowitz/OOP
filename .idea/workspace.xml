@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d122a7a6-0183-4572-9dc8-f8614e51f003" name="Changes" comment="Test - Exercise 1 - first from hard pack and first from easy pack">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/tests/arrayAndStrings/exercise1/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/tests/arrayAndStrings/exercise1/Exercise1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/tests/arrays/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/tests/arrays/exercise1/Exercise1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/tests/arrays/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/tests/arrays/exercise1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/tests/arrays/exercise3/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/tests/arrays/exercise3/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/tests/arrays/exercise3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/tests/arrays/exercise3/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +17,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -54,20 +54,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/org/example/polymorphism/exapmple2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.tests.arrayAndStrings.exercise1.Exercise1" />
-      <module name="OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.tests.arrayAndStrings.exercise1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.org.example.enumm.Main">
     <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.tests.arrays.exercise2.Exercise2" />
       <module name="OOP" />
@@ -107,6 +94,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.example.enumm.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.enumm.Main" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.enumm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="org.example.tests.arrays.exercise1.Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.tests.arrays.exercise1.Exercise1" />
       <module name="OOP" />
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.enumm.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Exercise3" />
         <item itemvalue="Application.Exercise2" />
         <item itemvalue="Application.org.example.tests.arrays.exercise1.Exercise1" />
-        <item itemvalue="Application.Exercise1" />
       </list>
     </recent_temporary>
   </component>
@@ -169,6 +169,9 @@
       <workItem from="1682324461766" duration="4802000" />
       <workItem from="1682335337988" duration="3479000" />
       <workItem from="1682343649317" duration="8708000" />
+      <workItem from="1682416754725" duration="5775000" />
+      <workItem from="1682505089606" duration="4423000" />
+      <workItem from="1682537035429" duration="670000" />
     </task>
     <task id="LOCAL-00001" summary="Two objects Car, 2 methods in class">
       <created>1664300236495</created>
