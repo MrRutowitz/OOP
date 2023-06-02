@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d122a7a6-0183-4572-9dc8-f8614e51f003" name="Changes" comment="Exceptions, Collections" />
+    <list default="true" id="d122a7a6-0183-4572-9dc8-f8614e51f003" name="Changes" comment="ArrayList">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,13 +52,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/org/example/polymorphism/exapmple2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.List">
-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.wyjatki.trycatch.Example2" />
+  <component name="RunManager" selected="Application.ArrayListIteration">
+    <configuration name="ArrayListIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collections.listainterator.ArrayListIteration" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.wyjatki.trycatch.*" />
+          <option name="PATTERN" value="org.example.collections.listainterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListIteration" />
         <item itemvalue="Application.List" />
         <item itemvalue="Application.org.example.wyjatki.example1.ThrowException" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ThrowException" />
-        <item itemvalue="Application.Example2" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +175,7 @@
       <workItem from="1685542553435" duration="5193000" />
       <workItem from="1685665856927" duration="2489000" />
       <workItem from="1685711720234" duration="3444000" />
-      <workItem from="1685731940272" duration="2585000" />
+      <workItem from="1685731940272" duration="5424000" />
     </task>
     <task id="LOCAL-00001" summary="Two objects Car, 2 methods in class">
       <created>1664300236495</created>
@@ -287,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685734783272</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="ArrayList">
+      <created>1685735035801</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1685735035801</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,7 +323,8 @@
     <MESSAGE value="Exceptions" />
     <MESSAGE value="Exceptions, try catch - divide test functions" />
     <MESSAGE value="Exceptions, Collections" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exceptions, Collections" />
+    <MESSAGE value="ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayList" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
