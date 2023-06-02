@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d122a7a6-0183-4572-9dc8-f8614e51f003" name="Changes" comment="Exceptions">
+    <list default="true" id="d122a7a6-0183-4572-9dc8-f8614e51f003" name="Changes" comment="Exceptions, try catch - divide test functions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/collections/example1/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/collections/example1lista/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/collections/example2/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/collections/example2listaparametrklasa/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/collections/example2/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/collections/example2listaparametrklasa/List.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +55,9 @@
       <recent name="$PROJECT_DIR$/src/main/java/org/example/polymorphism/exapmple2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.example.wyjatki.example1.ThrowException">
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.wyjatki.trycatch.Example1" />
+  <component name="RunManager" selected="Application.List">
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.wyjatki.trycatch.Example2" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
@@ -66,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.wyjatki.trycatch.Example2" />
+    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collections.example1lista.List" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.wyjatki.trycatch.*" />
+          <option name="PATTERN" value="org.example.collections.example1lista.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.List" />
         <item itemvalue="Application.org.example.wyjatki.example1.ThrowException" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ThrowException" />
         <item itemvalue="Application.Example2" />
-        <item itemvalue="Application.Example1" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +177,8 @@
       <workItem from="1682592748156" duration="4221000" />
       <workItem from="1685542553435" duration="5193000" />
       <workItem from="1685665856927" duration="2489000" />
-      <workItem from="1685711720234" duration="1832000" />
+      <workItem from="1685711720234" duration="3444000" />
+      <workItem from="1685731940272" duration="2258000" />
     </task>
     <task id="LOCAL-00001" summary="Two objects Car, 2 methods in class">
       <created>1664300236495</created>
@@ -274,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685545671501</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Exceptions, try catch - divide test functions">
+      <created>1685715490492</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1685715490492</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,7 +310,8 @@
     <MESSAGE value="Test - Exercise 1 - first from hard pack and first from easy pack" />
     <MESSAGE value="new possibility in exercise 3(arrays)-new two methods rotate and reverse" />
     <MESSAGE value="Exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exceptions" />
+    <MESSAGE value="Exceptions, try catch - divide test functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exceptions, try catch - divide test functions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,4 +1,4 @@
-package org.example.collections.example1;
+package org.example.collections.example1lista;
 
 import java.util.ArrayList;
 
@@ -16,6 +16,8 @@ public class List {
         arr.add(str2);
         arr.add(str3);
 
+        arr.add("Oliwia");
+        arr.set(2,"PawelPawel");
         System.out.println(arr);
 
         arr.remove(0);

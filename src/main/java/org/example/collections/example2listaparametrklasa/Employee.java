@@ -1,4 +1,4 @@
-package org.example.collections.example2;
+package org.example.collections.example2listaparametrklasa;
 
 public class Employee {
 

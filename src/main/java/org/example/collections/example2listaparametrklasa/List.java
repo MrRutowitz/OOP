@@ -1,8 +1,6 @@
-package org.example.collections.example2;
+package org.example.collections.example2listaparametrklasa;
 
 import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
 
 public class List {
 
