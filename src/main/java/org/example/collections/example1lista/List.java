@@ -1,6 +1,7 @@
 package org.example.collections.example1lista;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class List {
 
@@ -19,10 +20,18 @@ public class List {
         arr.add("Oliwia");
         arr.set(2,"PawelPawel");
         System.out.println(arr);
+//
+//        arr.remove(0);
+//        System.out.println(arr);
 
-        arr.remove(0);
-        System.out.println(arr);
+        System.out.println("--SORTING---");
+        Collections.sort(arr);
+        for (String s: arr) {
+            System.out.println(s);
+        }
 
+
+        System.out.println("--Drugi element z listy--");
         String name = arr.get(1);
         System.out.println(name);
     }
