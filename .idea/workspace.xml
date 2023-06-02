@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d122a7a6-0183-4572-9dc8-f8614e51f003" name="Changes" comment="new possibility in exercise 3(arrays)-new two methods rotate and reverse">
+    <list default="true" id="d122a7a6-0183-4572-9dc8-f8614e51f003" name="Changes" comment="Exceptions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/singleton/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/tests/arrays/exercise3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/tests/arrays/exercise3/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/org/example/polymorphism/exapmple2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example2">
+  <component name="RunManager" selected="Application.org.example.wyjatki.example1.ThrowException">
     <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.wyjatki.trycatch.Example1" />
       <module name="OOP" />
@@ -82,11 +80,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.lambda.example1.Main" />
+      <option name="MAIN_CLASS_NAME" value="org.example.wyjatki.example.Main" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.lambda.example1.*" />
+          <option name="PATTERN" value="org.example.wyjatki.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.singleton.Singleton" />
+    <configuration name="ThrowException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.wyjatki.throwexecpt.ThrowException" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.singleton.*" />
+          <option name="PATTERN" value="org.example.wyjatki.throwexecpt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.enumm.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.enumm.Main" />
+    <configuration name="org.example.wyjatki.example1.ThrowException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.wyjatki.example1.ThrowException" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.enumm.*" />
+          <option name="PATTERN" value="org.example.wyjatki.example1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.wyjatki.example1.ThrowException" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ThrowException" />
         <item itemvalue="Application.Example2" />
         <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.Singleton" />
-        <item itemvalue="Application.org.example.enumm.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +172,9 @@
       <workItem from="1682537035429" duration="670000" />
       <workItem from="1682552660632" duration="146000" />
       <workItem from="1682592748156" duration="4221000" />
-      <workItem from="1685542553435" duration="1761000" />
+      <workItem from="1685542553435" duration="5193000" />
+      <workItem from="1685665856927" duration="2489000" />
+      <workItem from="1685711720234" duration="1832000" />
     </task>
     <task id="LOCAL-00001" summary="Two objects Car, 2 methods in class">
       <created>1664300236495</created>
@@ -267,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682552801170</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Exceptions">
+      <created>1685545671501</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1685545671501</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,7 +298,8 @@
     <MESSAGE value="polymorphism and static" />
     <MESSAGE value="Test - Exercise 1 - first from hard pack and first from easy pack" />
     <MESSAGE value="new possibility in exercise 3(arrays)-new two methods rotate and reverse" />
-    <option name="LAST_COMMIT_MESSAGE" value="new possibility in exercise 3(arrays)-new two methods rotate and reverse" />
+    <MESSAGE value="Exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exceptions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
