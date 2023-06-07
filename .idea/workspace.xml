@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d122a7a6-0183-4572-9dc8-f8614e51f003" name="Changes" comment="ArrayList">
+    <list default="true" id="d122a7a6-0183-4572-9dc8-f8614e51f003" name="Changes" comment="ArrayList - iterator">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/org/example/polymorphism/exapmple2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayListIteration">
+  <component name="RunManager" selected="Application.org.example.collections.linkedlist.Main">
     <configuration name="ArrayListIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.collections.listainterator.ArrayListIteration" />
       <module name="OOP" />
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.wyjatki.throwexecpt.ThrowException" />
+    <configuration name="org.example.collections.linkedlist.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collections.linkedlist.Main" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.wyjatki.throwexecpt.*" />
+          <option name="PATTERN" value="org.example.collections.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.collections.linkedlist.Main" />
         <item itemvalue="Application.ArrayListIteration" />
         <item itemvalue="Application.List" />
         <item itemvalue="Application.org.example.wyjatki.example1.ThrowException" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ThrowException" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +175,10 @@
       <workItem from="1685542553435" duration="5193000" />
       <workItem from="1685665856927" duration="2489000" />
       <workItem from="1685711720234" duration="3444000" />
-      <workItem from="1685731940272" duration="5424000" />
+      <workItem from="1685731940272" duration="6039000" />
+      <workItem from="1685811860534" duration="682000" />
+      <workItem from="1685878639818" duration="599000" />
+      <workItem from="1686136081293" duration="2931000" />
     </task>
     <task id="LOCAL-00001" summary="Two objects Car, 2 methods in class">
       <created>1664300236495</created>
@@ -296,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685735035801</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="ArrayList - iterator">
+      <created>1685739482816</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1685739482816</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,7 +334,8 @@
     <MESSAGE value="Exceptions, try catch - divide test functions" />
     <MESSAGE value="Exceptions, Collections" />
     <MESSAGE value="ArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayList" />
+    <MESSAGE value="ArrayList - iterator" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayList - iterator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
