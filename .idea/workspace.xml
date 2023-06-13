@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d122a7a6-0183-4572-9dc8-f8614e51f003" name="Changes" comment="ArrayList - iterator">
+    <list default="true" id="af890bd3-2b95-4c73-b4e3-7c224f5c78ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +20,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
-        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -24,117 +27,32 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2FMJvOOoS2RlJqwvu7tL3E8ZVOG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2RAP2KThjiArqUX5vVwzgID4vav" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/erx/Projects/OOP/src/main/java/org/example/polymorphism/exapmple2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/org/example/polymorphism/exapmple2" />
-    </key>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.org.example.collections.linkedlist.Main">
-    <configuration name="ArrayListIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.collections.listainterator.ArrayListIteration" />
-      <module name="OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.collections.listainterator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.collections.example1lista.List" />
-      <module name="OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.collections.example1lista.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.wyjatki.example.Main" />
+      <option name="MAIN_CLASS_NAME" value="org.example.multitgreating.Main" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.wyjatki.example.*" />
+          <option name="PATTERN" value="org.example.multitgreating.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="org.example.collections.linkedlist.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.collections.linkedlist.Main" />
-      <module name="OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.collections.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="org.example.wyjatki.example1.ThrowException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.wyjatki.example1.ThrowException" />
-      <module name="OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.wyjatki.example1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.org.example.collections.linkedlist.Main" />
-        <item itemvalue="Application.ArrayListIteration" />
-        <item itemvalue="Application.List" />
-        <item itemvalue="Application.org.example.wyjatki.example1.ThrowException" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -142,175 +60,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d122a7a6-0183-4572-9dc8-f8614e51f003" name="Changes" comment="" />
-      <created>1664296251686</created>
+      <changelist id="af890bd3-2b95-4c73-b4e3-7c224f5c78ad" name="Changes" comment="" />
+      <created>1686689705195</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664296251686</updated>
-      <workItem from="1664296254202" duration="6372000" />
-      <workItem from="1664445488613" duration="9847000" />
-      <workItem from="1664641713186" duration="4273000" />
-      <workItem from="1664810461575" duration="5957000" />
-      <workItem from="1664982064409" duration="12338000" />
-      <workItem from="1665052829249" duration="1467000" />
-      <workItem from="1665531338178" duration="1847000" />
-      <workItem from="1665583155635" duration="1245000" />
-      <workItem from="1665653890963" duration="4616000" />
-      <workItem from="1665674034127" duration="2663000" />
-      <workItem from="1681679853397" duration="702000" />
-      <workItem from="1681721231484" duration="934000" />
-      <workItem from="1681761131115" duration="599000" />
-      <workItem from="1681835027589" duration="1198000" />
-      <workItem from="1681905975037" duration="4202000" />
-      <workItem from="1681993328310" duration="4123000" />
-      <workItem from="1682254609648" duration="12478000" />
-      <workItem from="1682324461766" duration="4802000" />
-      <workItem from="1682335337988" duration="3479000" />
-      <workItem from="1682343649317" duration="8708000" />
-      <workItem from="1682416754725" duration="5775000" />
-      <workItem from="1682505089606" duration="4423000" />
-      <workItem from="1682537035429" duration="670000" />
-      <workItem from="1682552660632" duration="146000" />
-      <workItem from="1682592748156" duration="4221000" />
-      <workItem from="1685542553435" duration="5193000" />
-      <workItem from="1685665856927" duration="2489000" />
-      <workItem from="1685711720234" duration="3444000" />
-      <workItem from="1685731940272" duration="6039000" />
-      <workItem from="1685811860534" duration="682000" />
-      <workItem from="1685878639818" duration="599000" />
-      <workItem from="1686136081293" duration="2931000" />
+      <updated>1686689705195</updated>
     </task>
-    <task id="LOCAL-00001" summary="Two objects Car, 2 methods in class">
-      <created>1664300236495</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1664300236495</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Constructors">
-      <created>1664303557697</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1664303557697</updated>
-    </task>
-    <task id="LOCAL-00003" summary="learning">
-      <created>1664473499585</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1664473499585</updated>
-    </task>
-    <task id="LOCAL-00004" summary="learning">
-      <created>1664840791409</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1664840791409</updated>
-    </task>
-    <task id="LOCAL-00005" summary="learning">
-      <created>1664985361062</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1664985361062</updated>
-    </task>
-    <task id="LOCAL-00006" summary="learning">
-      <created>1664985371092</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1664985371092</updated>
-    </task>
-    <task id="LOCAL-00007" summary="learning">
-      <created>1665004147326</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1665004147326</updated>
-    </task>
-    <task id="LOCAL-00008" summary="learning">
-      <created>1665014577198</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1665014577198</updated>
-    </task>
-    <task id="LOCAL-00009" summary="learning">
-      <created>1665017777473</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1665017777473</updated>
-    </task>
-    <task id="LOCAL-00010" summary="learning">
-      <created>1665537676994</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1665537676994</updated>
-    </task>
-    <task id="LOCAL-00011" summary="polymorphism and static">
-      <created>1681999315453</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1681999315453</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Test - Exercise 1 - first from hard pack and first from easy pack">
-      <created>1682288959230</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1682288959230</updated>
-    </task>
-    <task id="LOCAL-00013" summary="new possibility in exercise 3(arrays)-new two methods rotate and reverse">
-      <created>1682552801170</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1682552801170</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Exceptions">
-      <created>1685545671501</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1685545671501</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Exceptions, try catch - divide test functions">
-      <created>1685715490492</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1685715490492</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Exceptions, Collections">
-      <created>1685734783272</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1685734783272</updated>
-    </task>
-    <task id="LOCAL-00017" summary="ArrayList">
-      <created>1685735035801</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1685735035801</updated>
-    </task>
-    <task id="LOCAL-00018" summary="ArrayList - iterator">
-      <created>1685739482816</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1685739482816</updated>
-    </task>
-    <option name="localTasksCounter" value="19" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -322,30 +78,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Two objects Car, 2 methods in class" />
-    <MESSAGE value="Constructors" />
-    <MESSAGE value="learning" />
-    <MESSAGE value="polymorphism and static" />
-    <MESSAGE value="Test - Exercise 1 - first from hard pack and first from easy pack" />
-    <MESSAGE value="new possibility in exercise 3(arrays)-new two methods rotate and reverse" />
-    <MESSAGE value="Exceptions" />
-    <MESSAGE value="Exceptions, try catch - divide test functions" />
-    <MESSAGE value="Exceptions, Collections" />
-    <MESSAGE value="ArrayList" />
-    <MESSAGE value="ArrayList - iterator" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayList - iterator" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/tests/arrays/exercise1/Exercise1.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
